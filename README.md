@@ -1,4 +1,4 @@
-# Project Name: Concert Sentiment
+# Project Name: Live Pulse: Tuning into Concert Sentiments
 
 ## Project Objective
 The objective of this project is to analyze audience sentiment towards live music events and artists represented by Live Nation Entertainment. By leveraging data from ticketmaster API and social media platforms, the project aims to provide insights into audience preferences and trends, ultimately aiding strategic decision-making in the live entertainment industry.
