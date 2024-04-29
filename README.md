@@ -16,15 +16,17 @@ I have selected the position of Sr. Business Data Analyst at Live Nation Enterta
 ### Source
 - Ticketmaster API: Provides customer engagement data including event and venue details.
 - Ticket Master Website: Data scraped to gather audience sentiment related to live music events and artists.
+- Gemini API: analyzes sentiment from user reviews
 
 ### Characteristics
 The data sources include both structured data from the ticketmaster API and unstructured data from web scraping. They provide insights into audience preferences, trends, and sentiment within the live entertainment industry.
 
 ## Notebooks
-- [ticketmaster_data_extraction.ipynb](link): This notebook contains code for extracting and preprocessing data from the ticketmaster API.
+- : This notebook contains code for extracting and preprocessing data from the ticketmaster API.
 - [social_media_scraping.ipynb](link): This notebook includes code for scraping social media platforms to gather audience sentiment data.
 
 ## Future Improvements
-- Implement sentiment analysis techniques to quantify audience sentiment more accurately.
-- Incorporate machine learning models to predict audience behavior and preferences based on historical data.
+- Add additional artists and events
+- Scrape from social media websites
+  
 
