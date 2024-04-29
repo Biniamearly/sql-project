@@ -22,8 +22,9 @@ I have selected the position of Sr. Business Data Analyst at Live Nation Enterta
 The data sources include both structured data from the ticketmaster API and unstructured data from web scraping. They provide insights into audience preferences, trends, and sentiment within the live entertainment industry.
 
 ## Notebooks
-- : This notebook contains code for extracting and preprocessing data from the ticketmaster API.
-- [social_media_scraping.ipynb](link): This notebook includes code for scraping social media platforms to gather audience sentiment data.
+- https://github.com/Biniamearly/sql-project/blob/28ae5c37b2c8eae7d7f8e262a7a98fec368a8605/Gemeni%20API.ipynb: This notebook contains code for extracting and preprocessing data from the Gemini API
+- https://github.com/Biniamearly/sql-project/blob/28ae5c37b2c8eae7d7f8e262a7a98fec368a8605/Ticketmaster%20Data%20Extraction%20(1).ipynb: this notebook contains code for extracting and reporcessing data from the gemini API
+- https://github.com/Biniamearly/sql-project/blob/28ae5c37b2c8eae7d7f8e262a7a98fec368a8605/Web%20Scrape%20pynb.ipynb: this notebook contains code for scraping data from the ticketmaster website.
 
 ## Future Improvements
 - Add additional artists and events
